@@ -76,6 +76,7 @@ a {
 	margin-left: 120px;
 	margin-right: 40px;
 	float: left;
+	margin-bottom: 50px;
 }
 
 h1, h2 {
@@ -111,7 +112,7 @@ footer {
 	color: #ffffff;
 	font-size: 15px;
 	clear: both;
-	position: absolute;
+	position: fixed;
 	bottom: 0;
 	width: 100%;
 }
@@ -157,4 +158,8 @@ input {
 #message {
 	width: 500px;
 	height: 200px;
+}
+
+#footer {
+
 }
