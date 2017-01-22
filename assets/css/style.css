@@ -162,6 +162,11 @@ input {
 	padding: 5px;
 }
 
+input:focus {
+	color:black;
+	border: solid #4aaaa5;
+}
+
 #message {
 	width: 500px;
 	height: 200px;
